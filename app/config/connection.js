@@ -18,7 +18,7 @@ var source = {
     	host:'g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
     	user: '	e7ck9nxzfsaesqaj',
     	password: 'c7c8q1l7x7a1e1j9',
-		port: 3306
+		port: 3306,
 		database: 'ac6vtzwg4vnforxq'
 
 
