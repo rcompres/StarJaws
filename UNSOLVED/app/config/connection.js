@@ -19,7 +19,7 @@ var source = {
     	user: '	e7ck9nxzfsaesqaj',
     	password: 'c7c8q1l7x7a1e1j9',
 		port: 3306
-		database: 'starjaws'
+		database: 'ac6vtzwg4vnforxq'
 
 
         // TODO: Add your JawsDB connection info here
